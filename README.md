@@ -3,7 +3,6 @@
 <h3 align="center">A digital market developer from Bangladesh</h3>
 
 <img aline="right" alt="coding"=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
 - 🔭 I’m currently working on off-page(SEO),Image content, lead generation **Digital Marketing**
 
 - 🌱 I’m currently learning web development **ABCL IT**

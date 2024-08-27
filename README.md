@@ -1,7 +1,9 @@
 ![logo]( https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/Company%20Website%20Business%20Website%20in%20Violet%20Dark%20Blue%20Neon%20Pink%20Gradient%20Tech%20Style%20(1).png)
 <h1 align="center">Hi 👋, I'm Toukir Ahmmed</h1>
 <h3 align="center">A digital market developer from Bangladesh</h3>
+
 <img aline="right" alt="coding"=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+
 - 🔭 I’m currently working on off-page(SEO),Image content, lead generation **Digital Marketing**
 
 - 🌱 I’m currently learning web development **ABCL IT**

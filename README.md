@@ -1,4 +1,4 @@
-![logo]( https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/Company%20Website%20Business%20Website%20in%20Violet%20Dark%20Blue%20Neon%20Pink%20Gradient%20Tech%20Style%20(1).png)
+![logo](https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/Blue%20%26%20White%20Geometric%20Technology%20linkedln%20%20Benner.png)
 <h1 align="center">Hi 👋, I'm Toukir Ahmmed</h1>
 <h3 align="center">A digital market developer from Bangladesh</h3>
 <img aline="right"alt="coding"=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">

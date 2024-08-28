@@ -1,15 +1,15 @@
 ![logo](https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/Blue%20%26%20White%20Geometric%20Technology%20linkedln%20%20Benner.png)
 <h1 align="center">Hi 👋, I'm Toukir Ahmmed</h1>
-<h3 align="center">A off-page,on-page(SEO),Image content developer from Bangladesh</h3>
+<h3 align="center">A LEAD GENERATION EXPERT from Bangladesh</h3>
 <img aline="right"alt="coding"=350 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-- 🔭 I’m currently working on off-page,on page(SEO),Image content, lead generation **Digital Marketing**
+- 🔭 I’m currently working on LinkedIn Lead Generation,Lead Generation Advanc Tools,CRM,Email Marketing **Digital Marketing**
 
 - 🌱 I’m currently learning web development and digital mearketing **ABCL IT**
 
 - 📫 How to reach me **toukirahmmed5141@gmail.com**
 
-- 📄 Know about my experiences [off-page SEO, image content all site expert.](off-page SEO, image content all site expert.)
+- 📄 Know about my experiences [LinkedIn Lead Generation,Lead Generation Advanc Tools,CRM,Email Marketing all site expert.]
 
 - ⚡ Fun fact **I am funny😉😅**
 

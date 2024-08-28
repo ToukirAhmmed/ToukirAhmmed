@@ -1,7 +1,7 @@
 ![logo](https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/LINKEDIN.png)
 <h1 align="center">Hi 👋, I'm Toukir Ahmmed</h1>
 <h3 align="center">A LEAD GENERATION EXPERT from Bangladesh</h3>
-<img aline="right"alt="coding"=350 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img aline="right"alt="coding"=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 - 🔭 I’m currently working on LinkedIn Lead Generation,Lead Generation Advanc Tools,CRM,Email Marketing **Digital Marketing**
 

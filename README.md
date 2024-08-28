@@ -1,4 +1,4 @@
-![logo](https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/Blue%20%26%20White%20Geometric%20Technology%20linkedln%20%20Benner.png)
+![logo](https://github.com/ToukirAhmmed/ToukirAhmmed/commit/778101d4a533e05f41d691781b92fc836c44cccf)
 <h1 align="center">Hi 👋, I'm Toukir Ahmmed</h1>
 <h3 align="center">A LEAD GENERATION EXPERT from Bangladesh</h3>
 <img aline="right"alt="coding"=350 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">

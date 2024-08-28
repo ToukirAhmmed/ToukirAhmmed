@@ -1,10 +1,7 @@
 ![logo](https://github.com/ToukirAhmmed/ToukirAhmmed/blob/main/Blue%20%26%20White%20Geometric%20Technology%20linkedln%20%20Benner.png)
 <h1 align="center">Hi 👋, I'm Toukir Ahmmed</h1>
 <h3 align="center">A digital market developer from Bangladesh</h3>
-
-
 <img aline="right"alt="coding"=400 src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
 
 - 🔭 I’m currently working on off-page(SEO),Image content, lead generation **Digital Marketing**
 
